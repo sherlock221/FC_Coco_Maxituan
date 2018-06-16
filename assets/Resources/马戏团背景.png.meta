@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "07004e6c-7ae5-499c-bffa-b8d2c8aa2b82",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "马戏团背景": {
+      "ver": "1.0.3",
+      "uuid": "65256f75-0f60-43ea-9e58-9aa5d851785d",
+      "rawTextureUuid": "07004e6c-7ae5-499c-bffa-b8d2c8aa2b82",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 256,
+      "height": 240,
+      "rawWidth": 256,
+      "rawHeight": 240,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
